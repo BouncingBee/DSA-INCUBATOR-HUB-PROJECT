@@ -18,4 +18,4 @@
  - Data Cleaning is done by first removing any duplicated data in the set provided. About four duplicated data was discovered and removed.
  - Handling missing variables: replacing missing genders, removing zero salaries and exited staff.
 
- - 
+ - Creating Pivot Tables for the data set
