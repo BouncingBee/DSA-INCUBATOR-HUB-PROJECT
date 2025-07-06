@@ -7,6 +7,6 @@
  #### Data Source: The data used is that which was provided by the facilitators of the DSA training for the benefit of this project.
 
  #### Tools Used
- - Microsoft Excel for Data Cleaning, ANalysis and Visualization
+ - Microsoft Excel for Data Cleaning, Analysis and Visualization
  - Power BI for Data Visualization and Presentation
  - Github for Portfolio Building
